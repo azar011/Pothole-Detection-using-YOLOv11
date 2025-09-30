@@ -1,7 +1,7 @@
-streamlit==1.12.0
+streamlit==1.38.0
 ultralytics
-opencv-python==4.6.0.66
-numpy==1.23.0
-pandas==1.4.0
-torch==1.12.1
-roboflow==0.2.0
+opencv-python
+numpy
+pandas
+torch
+roboflow

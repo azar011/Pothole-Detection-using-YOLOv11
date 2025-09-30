@@ -1,0 +1,9 @@
+[server]
+headless = true
+
+# (optionally) you can adjust other server settings
+# e.g. file upload size, port, etc.
+
+# This entry **might** force python version on some setups,
+# but not always guaranteed:
+pythonVersion = "3.10"

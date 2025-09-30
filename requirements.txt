@@ -1,7 +1,9 @@
 streamlit==1.38.0
-ultralytics
-opencv-python
-numpy
-pandas
-torch
-roboflow
+ultralytics==8.3.20
+opencv-python==4.8.0.76
+numpy==1.26.4
+pandas==2.2.2
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+roboflow==1.1.27

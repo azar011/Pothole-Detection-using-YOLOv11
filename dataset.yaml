@@ -1,0 +1,12 @@
+train: D:/pothole detection/dataset_format/train/images 
+val: D:/pothole detection/dataset_format/valid/images
+test: D:/pothole detection/dataset_format/test/images
+nc: 1
+names: ["pothole"]
+
+roboflow:
+  workspace: project-ssayl
+  project: potholes-detection-d4rma
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-ssayl/potholes-detection-d4rma/dataset/1
